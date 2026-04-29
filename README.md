@@ -1,17 +1,9 @@
-# flutter_iot_cake_fast_app
+## Mobile Application with Flutter & Dart
 
-A new Flutter project.
+## UI for Food Log App
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="250" src="https://github.com/user-attachments/assets/c776a43e-0c6d-444f-80a2-f57320e829b6" />
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img width="250" src="https://github.com/user-attachments/assets/42f0279c-2665-4a5d-9660-1dd8de544f9f" />
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img width="250" src="https://github.com/user-attachments/assets/64afabd0-91c3-4d26-a3c7-0c6fa90ea29e" />
